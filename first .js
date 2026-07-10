@@ -30,3 +30,7 @@ let person = {
 };
 
 console.log(person.name);
+
+let fruits = ["Apple", "Banana", "Mango"];
+
+console.log(fruits);
