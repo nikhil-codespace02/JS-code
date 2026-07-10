@@ -22,3 +22,11 @@ if (num % 2 === 0) {
 } else {
     console.log("Odd");
 }
+
+
+let person = {
+    name: "Nikhil",
+    age: 22
+};
+
+console.log(person.name);
