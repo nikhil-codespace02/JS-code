@@ -14,3 +14,8 @@ let num2 = 20;
 let sum = num1 + num2;
 
 console.log("Sum =", sum);
+
+
+let fruits = ["Apple", "Banana", "Mango"];
+
+console.log(fruits);
