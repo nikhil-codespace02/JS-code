@@ -31,6 +31,10 @@ let person = {
 
 console.log(person.name);
 
-let fruits = ["Apple", "Banana", "Mango"];
 
-console.log(fruits);
+let person = {
+    name: "Nagesh",
+    age: 22
+};
+
+console.log(person.name);
