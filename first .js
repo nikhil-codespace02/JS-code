@@ -15,6 +15,21 @@ let sum = num1 + num2;
 
 console.log("Sum =", sum);
 
+let num = 7;
+
+if (num % 2 === 0) {
+    console.log("Even");
+} else {
+    console.log("Odd");
+}
+
+
+let person = {
+    name: "Nikhil",
+    age: 22
+};
+
+console.log(person.name);
 
 let fruits = ["Apple", "Banana", "Mango"];
 
